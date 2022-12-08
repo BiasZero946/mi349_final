@@ -1,0 +1,7 @@
+.mflexed{
+    background: black;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    column-gap: 10px;
+}
