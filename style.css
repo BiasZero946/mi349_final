@@ -1,17 +1,17 @@
 html {
-    background: #fff;
+    background: #e3e3e3;
 }
 
 .flexed{
     display: flex;
     color: white;
     justify-content: space-around;
-    column-gap: 10px;
+    column-gap: 5px;
 }
 
 .format-f{
     background: #999;
-    max-width: 30%;
+    max-width: 40%;
   }
 
   .image-a{
