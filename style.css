@@ -24,9 +24,6 @@ html {
 
 .links{
     background: black;
-    position: -webkit-sticky;
-    position: sticky;
-    top: -1;
     font-size: 1em;
     
   }
