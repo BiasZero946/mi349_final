@@ -1,4 +1,4 @@
-.mflexed{
+.flexed{
     background: black;
     display: flex;
     color: white;
@@ -17,6 +17,6 @@
   }
 
   .image-b{
-    float: right;
+    float: left;
     margin-left: 0px;
   }
