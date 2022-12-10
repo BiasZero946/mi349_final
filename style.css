@@ -20,6 +20,6 @@ html {
   }
 
   .image-b{
-    float: left;
-    margin-left: 0px;
+    float: right;
+    margin-right: 0px;
   }
