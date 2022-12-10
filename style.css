@@ -5,3 +5,8 @@
     justify-content: space-around;
     column-gap: 10px;
 }
+
+.format-f{
+    background: #999;
+    max-width: 30%;
+  }
