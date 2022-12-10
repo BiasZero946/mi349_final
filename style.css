@@ -5,7 +5,7 @@ html {
 .flexed{
     display: flex;
     color: white;
-    column-gap: 200px;
+    column-gap: 100px;
 }
 
 .format-f{
@@ -19,5 +19,4 @@ html {
 
   .image-b{
     float: left;
-    margin-left: 100px;
   }
