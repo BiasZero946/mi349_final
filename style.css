@@ -45,7 +45,7 @@ a[href="./resume.html"]{
 
 .headera{
     position: sticky;
-    right: 600px;
+    margin-left: 600px;
     color: white;
     font-size: 2em;
     
