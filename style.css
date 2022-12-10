@@ -23,11 +23,12 @@ html {
   }
 
 .links{
+    background: black;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
     font-size: 1em;
-    background: black
+    
   }
 
 a[href="./resume.html"]{
@@ -37,7 +38,7 @@ a[href="./resume.html"]{
 }
 
 .top{
-    background: black
+    background: black;
 }
 
 .header{
