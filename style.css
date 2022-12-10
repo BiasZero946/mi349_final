@@ -5,7 +5,6 @@ html {
 .flexed{
     display: flex;
     color: white;
-    justify-content: space-around;
     column-gap: 1px;
 }
 
