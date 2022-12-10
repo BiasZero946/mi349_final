@@ -45,9 +45,8 @@ a[href="./resume.html"]{
 }
 
 .headera{
-    position: sticky;
+    position: absolute;
     margin-left: 650px;
     color: white;
     font-size: 2em;
-    margin-top: 40px;
 }
