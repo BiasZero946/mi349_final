@@ -26,11 +26,12 @@ html {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    font-size: 2em;
+    font-size: 1em;
+    background: black
   }
 
 a[href="./resume.html"]{
-    color:aqua;
+    color:rgb(148, 254, 254);
     position: absolute;
     right: 680px;
 }
@@ -40,5 +41,17 @@ a[href="./resume.html"]{
 }
 
 .header{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
     color: white;
+    font-size: 4em;
+}
+
+.headera{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    color: white;
+    font-size: 2em;
 }
