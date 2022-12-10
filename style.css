@@ -32,7 +32,6 @@ a[href="./resume.html"]{
     color:rgb(148, 254, 254);
     background: black;
     margin-left: 700px;
-    height: 40px;
 }
 
 .top{
@@ -50,5 +49,5 @@ a[href="./resume.html"]{
     margin-left: 650px;
     color: white;
     font-size: 2em;
-    
+    margin-top: 40px;
 }
