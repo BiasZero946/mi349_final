@@ -34,6 +34,12 @@ a[href="./resume.html"]{
     margin-left: 700px;
 }
 
+a[href="./index.html"]{
+    color:rgb(148, 254, 254);
+    background: black;
+    margin-left: 700px;
+}
+
 .top{
     background: black;
 }
