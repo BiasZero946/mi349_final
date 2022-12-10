@@ -38,13 +38,13 @@ a[href="./resume.html"]{
 }
 
 .header{
-    position: absolute;
+    position: sticky;
     color: white;
     font-size: 4em;
 }
 
 .headera{
-    position: absolute;
+    position: sticky;
     right: 600px;
     color: white;
     font-size: 2em;
