@@ -39,7 +39,7 @@ a[href="./resume.html"]{
 }
 
 .header{
-    margin-left: 700px;
+    margin-left: 650px;
     position: sticky;
     color: white;
     font-size: 4em;
@@ -49,4 +49,5 @@ a[href="./resume.html"]{
     margin-left: 655px;
     color: white;
     font-size: 2em;
+    margin-bottom: 0;
 }
