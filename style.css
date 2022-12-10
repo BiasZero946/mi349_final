@@ -12,12 +12,29 @@ html {
     max-width: 40%;
   }
 
-  .image-a{
+.image-a{
     float: left;
     margin-left: 100px;
   }
 
-  .image-b{
+.image-b{
     float: left;
     margin-left: 80px;
   }
+
+.links{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    font-size: 2em;
+  }
+
+a[href="./resume.html"]{
+    color:aqua;
+    position: absolute;
+    right: 680px;
+}
+
+.top{
+    background: black
+}
