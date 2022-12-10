@@ -1,5 +1,8 @@
+html {
+    background: #fff;
+}
+
 .flexed{
-    background: black;
     display: flex;
     color: white;
     justify-content: space-around;
