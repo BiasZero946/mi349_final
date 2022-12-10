@@ -24,7 +24,7 @@ html {
 
 .links{
     background: black;
-    font-size: 1em;
+    font-size: 1.3em;
     
   }
 
@@ -51,4 +51,5 @@ a[href="./resume.html"]{
     top: 0;
     color: white;
     font-size: 2em;
+    right: 600px;
 }
