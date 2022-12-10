@@ -10,3 +10,8 @@
     background: #999;
     max-width: 30%;
   }
+
+  .image-a{
+    float: left;
+    margin-left: 0px;
+  }
