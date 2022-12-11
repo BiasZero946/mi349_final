@@ -109,14 +109,14 @@ a[href="https://connor-miller.itch.io/"]{
     margin-left: 640px;
     font-size: 1em;
     color: aqua;
-    padding-top: 20px;
 }
 
 a[href="https://connor-miller.itch.io/momart-inc"] {
     margin-left: 640px;
     font-size: 1em;
     color:aqua;
-    padding-top: 20px;
+    position: absolute;
+    bottom: 10px;
 }
 
 .description {
