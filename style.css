@@ -46,7 +46,10 @@ a[href="./index.html"]{
 
 a[href="./preproduction.html"]{
     color:rgb(148, 254, 254);
-    margin-left: 600px;
+}
+
+.prea {
+    margin-left: 300px;
 }
 
 .top{
