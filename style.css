@@ -87,6 +87,13 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
     line-height: 1.4em;
     width: 600px;
     margin-left: 400px;
-    border-top: 2px dotted rgb(7, 7, 7);
-    background-color:rgb(92, 90, 90);
+    border-top: 2px solid rgb(20, 20, 20);
+    border-left: 2px solid rgb(20, 20, 20);
+    border-right: 2px solid rgb(20, 20, 20);
+    border-bottom: 2px solid rgb(20, 20, 20);
+    background-color:rgb(77, 74, 74);
+}
+
+.contact {
+    color: white;
 }
