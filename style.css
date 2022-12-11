@@ -180,7 +180,7 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 }
 
 .headere{
-    margin-left: 350px;
+    margin-left: 380px;
     position: sticky;
     color: white;
     font-size: 4em;
@@ -191,4 +191,22 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
     color: white;
     font-size: 2em;
     margin-bottom: 0;
+}
+
+.format-r {
+    line-height: 1.4em;
+    width: 650px;
+    border-top: 2px solid rgb(20, 20, 20);
+    border-left: 2px solid rgb(20, 20, 20);
+    border-right: 2px solid rgb(20, 20, 20);
+    border-bottom: 2px solid rgb(20, 20, 20);
+    background-color:rgb(77, 74, 74);
+    margin-top: 10px;
+}
+
+.header-r{
+    font-size: 2em;
+    margin-bottom: 1px;
+    margin-top: 10px;
+    margin-left: 155px;
 }
