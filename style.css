@@ -41,7 +41,7 @@ a[href="./resume.html"]{
 a[href="./index.html"]{
     color:rgb(148, 254, 254);
     background: black;
-    margin-left: 700px;
+    margin-right: 500px;
 }
 
 a[href="./preproduction.html"]{
@@ -74,17 +74,17 @@ a[href="./preproduction.html"]{
 }
 
 a[href="https://connor-miller.itch.io/"]{
-    margin-left: 660px;
+    margin-left: 640px;
     font-size: 1em;
 }
 
 a[href="https://connor-miller.itch.io/momart-inc"] {
-    margin-left: 660px;
+    margin-left: 640px;
     font-size: 1em;
 }
 
 .description {
     line-height: 1.4em;
     width: 600px;
-    margin-left: 200px;
+    margin-left: 400px;
 }
