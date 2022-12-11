@@ -129,9 +129,12 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 }
 
 .flexed-c{
-    background: black;
     display: flex;
-    color: white;
+    color: rgb(0, 0, 0);
     justify-content: space-around;
     column-gap: 10px;
   }
+
+  .title-c{
+    font-size: 2em;
+}
