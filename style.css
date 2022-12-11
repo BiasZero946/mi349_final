@@ -49,7 +49,7 @@ a[href="./preproduction.html"]{
 }
 
 .prea {
-    margin-left: 300px;
+    margin-left: 600px;
 }
 
 .top{
@@ -62,7 +62,7 @@ a[href="./preproduction.html"]{
 }
 
 .header{
-    margin-left: 635px;
+    margin-left: 625px;
     position: sticky;
     color: white;
     font-size: 4em;
@@ -162,4 +162,11 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
     margin-bottom: 1px;
     margin-top: 10px;
     margin-left: 155px;
+}
+
+.headere{
+    margin-left: 575px;
+    position: sticky;
+    color: white;
+    font-size: 4em;
 }
