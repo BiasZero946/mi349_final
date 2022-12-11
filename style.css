@@ -71,7 +71,7 @@ a[href="./preproduction.html"]{
 }
 
 .headerb{
-    margin-left: 655px;
+    margin-left: 650px;
     color: white;
     font-size: 1em;
     margin-bottom: 0;
@@ -111,3 +111,27 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 .contact {
     color: rgb(224, 224, 224);
 }
+
+.description-c {
+    line-height: 1.4em;
+    width: 600px;
+    margin-left: 420px;
+    border-top: 2px solid rgb(20, 20, 20);
+    border-left: 2px solid rgb(20, 20, 20);
+    border-right: 2px solid rgb(20, 20, 20);
+    border-bottom: 2px solid rgb(20, 20, 20);
+    background-color:rgb(77, 74, 74);
+    margin-top: 50px;
+}
+
+.contact-c {
+    color: rgb(224, 224, 224);
+}
+
+.flexed-c{
+    background: black;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    column-gap: 10px;
+  }
