@@ -42,11 +42,11 @@ a[href="./resume.html"]{
 a[href="./index.html"]{
     color:rgb(148, 254, 254);
     background: black;
-    margin-right: 300px;
 }
 
 a[href="./preproduction.html"]{
     color:rgb(148, 254, 254);
+    margin-left: 600px;
 }
 
 .top{
