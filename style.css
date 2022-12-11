@@ -116,7 +116,7 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
     font-size: 1em;
     color:aqua;
     position: absolute;
-    top: 100px;
+    bottom: -100px;
 }
 
 .description {
