@@ -226,7 +226,7 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 
 .description-r {
     line-height: 1.4em;
-    width: 600px;
+    width: 400px;
     margin-left: 420px;
     margin-top: 50px;
     border-top: 2px solid rgb(20, 20, 20);
@@ -251,6 +251,14 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 
 .title-b{
     margin-left: 630px;
+    font-size: 2em;
+    margin-bottom: 70px;
+    margin-top: 50px;
+    color: black;
+}
+
+.title-a{
+    margin-left: 675px;
     font-size: 2em;
     margin-bottom: 70px;
     margin-top: 50px;
