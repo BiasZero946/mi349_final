@@ -208,7 +208,7 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
     font-size: 2em;
     margin-bottom: 1px;
     margin-top: 10px;
-    margin-left: 155px;
+    margin-left: 50px;
 }
 
 .flexed-d{
@@ -216,4 +216,6 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
     color: rgb(0, 0, 0);
     /*justify-content: space-around;*/
     column-gap: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px
   }
