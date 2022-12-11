@@ -59,7 +59,13 @@ a[href="./index.html"]{
 }
 
 .title{
-    margin-left: 655px;
+    margin-left: 660px;
     font-size: 2em;
-    margin-bottom: 10;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+a[href="https://connor-miller.itch.io/"]{
+    margin-left: 660px;
+    font-size: 1em;
 }
