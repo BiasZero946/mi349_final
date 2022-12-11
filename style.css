@@ -52,6 +52,10 @@ a[href="./preproduction.html"]{
     background: black;
 }
 
+.bottom{
+    background: black;
+}
+
 .header{
     margin-left: 635px;
     position: sticky;
@@ -66,27 +70,36 @@ a[href="./preproduction.html"]{
     margin-bottom: 0;
 }
 
+.headerb{
+    margin-left: 655px;
+    color: white;
+    font-size: 1em;
+    margin-bottom: 0;
+}
+
 .title{
     margin-left: 660px;
     font-size: 2em;
-    margin-bottom: 100px;
-    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-top: 75px;
 }
 
 a[href="https://connor-miller.itch.io/"]{
     margin-left: 640px;
+    margin-top: 20px;
     font-size: 1em;
 }
 
 a[href="https://connor-miller.itch.io/momart-inc"] {
     margin-left: 640px;
+    margin-top: 20px;
     font-size: 1em;
 }
 
 .description {
     line-height: 1.4em;
     width: 600px;
-    margin-left: 400px;
+    margin-left: 420px;
     border-top: 2px solid rgb(20, 20, 20);
     border-left: 2px solid rgb(20, 20, 20);
     border-right: 2px solid rgb(20, 20, 20);
