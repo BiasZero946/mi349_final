@@ -55,6 +55,7 @@ a[href="./preproduction.html"]{
 
 .bottom{
     background: black;
+    margin-top: 30px;
 }
 
 .header{
@@ -140,6 +141,7 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 
 .title-c{
     font-size: 2em;
+    margin-bottom: 0;
 }
 
 .title-d{
