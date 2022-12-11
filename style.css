@@ -36,7 +36,6 @@ body {
 a[href="./resume.html"]{
     color:rgb(148, 254, 254);
     background: black;
-    margin-left: 640px;
 }
 
 a[href="./index.html"]{
@@ -46,6 +45,14 @@ a[href="./index.html"]{
 
 a[href="./preproduction.html"]{
     color:rgb(148, 254, 254);
+}
+
+.resumep{
+    margin-left: 640px;
+}
+
+.resumei{
+    margin-left: 620px;
 }
 
 .prea {
@@ -165,8 +172,15 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 }
 
 .headere{
-    margin-left: 575px;
+    margin-left: 500px;
     position: sticky;
     color: white;
     font-size: 4em;
+}
+
+.headerg{
+    margin-left: 640px;
+    color: white;
+    font-size: 2em;
+    margin-bottom: 0;
 }
