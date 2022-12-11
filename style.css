@@ -116,7 +116,7 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
     font-size: 1em;
     color:aqua;
     position: absolute;
-    bottom: -295px;
+    bottom: -285px;
 }
 
 .description {
@@ -295,3 +295,10 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
     border-bottom: 2px solid rgb(20, 20, 20);
     background-color:rgb(77, 74, 74);
 }
+
+.image-d{
+    float: middle;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 475px;
+  }
