@@ -4,6 +4,7 @@ html {
 
 body {
     padding: 40px;
+    background: rgb(0, 0, 0);
 }
 
 .flexed{
@@ -82,18 +83,21 @@ a[href="./preproduction.html"]{
     font-size: 2em;
     margin-bottom: 70px;
     margin-top: 75px;
+    color: white;
 }
 
 a[href="https://connor-miller.itch.io/"]{
     margin-left: 640px;
     margin-top: 20px;
     font-size: 1em;
+    color: aqua;
 }
 
 a[href="https://connor-miller.itch.io/momart-inc"] {
     margin-left: 640px;
     margin-top: 20px;
     font-size: 1em;
+    color:aqua;
 }
 
 .description {
