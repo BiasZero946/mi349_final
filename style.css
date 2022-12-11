@@ -84,19 +84,19 @@ a[href="./preproduction.html"]{
     font-size: 2em;
     margin-bottom: 70px;
     margin-top: 75px;
-    color: white;
+    color: black;
 }
 
 a[href="https://connor-miller.itch.io/"]{
     margin-left: 640px;
-    margin-top: 20px;
+    margin-top: 200px;
     font-size: 1em;
     color: aqua;
 }
 
 a[href="https://connor-miller.itch.io/momart-inc"] {
     margin-left: 640px;
-    margin-top: 20px;
+    margin-top: 200px;
     font-size: 1em;
     color:aqua;
 }
@@ -130,6 +130,7 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 
 .contact-c {
     color: rgb(224, 224, 224);
+    margin-bottom: 0;
 }
 
 .flexed-c{
@@ -141,10 +142,14 @@ a[href="https://connor-miller.itch.io/momart-inc"] {
 
 .title-c{
     font-size: 2em;
-    margin-bottom: 0;
+    margin-bottom: 1px;
+    margin-top: 0;
+    margin-left: 50px;
 }
 
 .title-d{
     font-size: 2em;
-    margin-bottom: 0;
+    margin-bottom: 1px;
+    margin-top: 0;
+    margin-left: 50px;
 }
